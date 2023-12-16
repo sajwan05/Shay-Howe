@@ -60,3 +60,44 @@ table {
 	   -moz-box-sizing:border-box;
 			box-sizing:border-box;
 }
+
+.container{
+	width:900px;
+	padding:0px 30px;
+	margin:0px auto;
+}
+
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+
+h1,h3,h4,h5,p{
+	margin-bottom:22px;
+}
+
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn{
+	border-radius:5px;
+	margin:0;
+}
+
+.btn-alt{
+	border:1px solid #dfe2e5;
+	padding:10px 30px;
+}
+
+/*
+  ========================================
+  Home
+  ========================================
+*/
+.hero{
+	padding:22px 80px 66px 80px;
+}
